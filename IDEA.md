@@ -20,5 +20,7 @@ Algo como un ESP32+DAC o pico+dac, potenciar y parlantes.
 #### Moar reading
 - [reddit thread](https://www.reddit.com/r/homeassistant/comments/y1gu3f/multiroom_audio_snapcast_spotify_connect_airplay/)
 - [mopidy-icesnap](https://github.com/RoggerFabri/mopidy-icesnap)
+- [esp32 walkie talkie](https://github.com/atomic14/esp32-walkie-talkie)
+
 
 ![idea](scheme.png)
