@@ -16,4 +16,7 @@ Algo como un ESP32+DAC o pico+dac, potenciar y parlantes.
 - [tinyupnp](https://github.com/ofekp/TinyUPnP)
 - [pico audio](https://www.waveshare.com/wiki/Pico-Audio)
 
+
+#### Moar reading
+[reddit thread](https://www.reddit.com/r/homeassistant/comments/y1gu3f/multiroom_audio_snapcast_spotify_connect_airplay/)
 ![idea](scheme.png)
